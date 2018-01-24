@@ -1,0 +1,23 @@
+Exercise
+• Calculate
+• 23.0 to the 5th power 
+• Positive root of the following equation:
+• 34*x^2 + 68*x – 510
+• Recall:
+• a*x^2 + b*x + c
+• x1 = ( - b + sqrt ( b*b - 4*a*c ) ) / ( 2*a)
+
+
+Exercise
+• Answer:
+• 23.0 to the 5th power
+23** 5 OR import math
+math.pow(23.0,5)
+6436343 6436343.0
+• Positive root of the following equation:
+import math
+a=34
+b=68
+c=-510
+x = (-b + math.sqrt(b*b-4*a*c))/ (2*a)
+print (x)
